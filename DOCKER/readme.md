@@ -12,6 +12,13 @@ Create containers with operating system, wich version of tools you need, you can
 - For Wordpress :
   - PHP
   - MySql
-  - Wordpress ZIP file
+  - Wordpress ZIP file : [Wordpress](https://fr.wordpress.org/download/)
 
 ## Let's Go
+
+1. Install DOCKER
+
+2. Get the debian image
+   '''shell
+   docker pull debian:latest
+   '''
