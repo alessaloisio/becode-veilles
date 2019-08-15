@@ -106,4 +106,7 @@ $ docker exec -ti wordpress bash
 ```
 
 **OPTIONAL USEFUL PHP EXTENSIONS**
-\$ apt -y install php-cli php-fpm php-json php-pdo php-mysql php-zip php-gd php-mbstring php-curl php-xml php-pear php-bcmath
+
+```
+$ apt -y install php-cli php-fpm php-json php-pdo php-mysql php-zip php-gd php-mbstring php-curl php-xml php-pear php-bcmath
+```
