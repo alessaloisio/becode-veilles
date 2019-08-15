@@ -2,7 +2,7 @@
 
 ## What's & Why DOCKER ?
 
-Create containers with an operating system, wich version of tools you need, you can do some benchmark easily to determine the best tools for your softwares.
+Create containers with an operating system, wich version of tools you need, you can do some benchmark easily to determine the best tools for your softwares. It's your playground :metal:
 
 ## What we need ?
 
